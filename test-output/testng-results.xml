@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Selenium 3.0.0]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9283" started-at="2016-07-31T10:14:00Z" finished-at="2016-07-31T10:14:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9283" started-at="2016-07-31T10:14:00Z" finished-at="2016-07-31T10:14:09Z">
+      <class name="demo_Jenkins.DemoA">
+        <test-method status="PASS" signature="demoB()[pri:0, instance:demo_Jenkins.DemoA@7bfcd12c]" name="demoB" duration-ms="9266" started-at="2016-07-31T15:44:00Z" finished-at="2016-07-31T15:44:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Selenium 3.0.0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demoB -->
+      </class> <!-- demo_Jenkins.DemoA -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
